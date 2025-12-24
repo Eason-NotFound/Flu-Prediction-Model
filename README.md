@@ -110,3 +110,12 @@ Potential extensions include:
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
+
+---
+
+## 9. Author
+
+**Yichen Qu**  
+
+This project is conducted for academic and research purposes.
+
